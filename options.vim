@@ -9,5 +9,3 @@ set tabstop=2
 set smartindent
 
 syntax on
-
-set clipboard+=unnamedplus
